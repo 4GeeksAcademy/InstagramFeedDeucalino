@@ -1,0 +1,25 @@
+.container {
+  display: flex;
+}
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+.fa-html5 {
+  display: flex;
+  flex-direction: column;
+}
+
+.fa-brands fa-html5 p {
+  margin: 0;
+  
+}
+
+.fa-solid fa-ellipsis-vertical {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+  
